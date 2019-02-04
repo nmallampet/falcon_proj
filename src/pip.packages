@@ -1,0 +1,15 @@
+#falcon
+#version: falcon-1.4.1 python-mimeparse-1.6.0 six-1.11.0
+pip install falcon
+
+#postgres adaptor
+#version: psycopg2-binary-2.7.5
+pip install psycopg2-binary
+
+#gunicorn installation
+#version: gunicorn-19.9.0
+pip install gunicorn
+
+#virtualenv installation
+#version: virtualenv-16.0.0
+pip install virtualenv
